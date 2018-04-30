@@ -1,3 +1,5 @@
+# WARNING! IT'S NOT FOR PRODUCTION. IT'S A TESTING REPO!
+
 # Gmail for Ruby
 
 A Ruby interface to Gmail API: Search, 
