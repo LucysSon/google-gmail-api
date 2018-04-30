@@ -1,3 +1,15 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# rspec failure tracking
+.rspec_status
+
 ## MAC OS
 .DS_Store
 
@@ -19,11 +31,7 @@ tmtags
 ## PROJECT::GENERAL
 coverage
 rdoc
-pkg
-Gemfile.lock
-
-## Gem build
-*.gem
+tags
 
 ## PROJECT::SPECIFIC
 *.rdb
